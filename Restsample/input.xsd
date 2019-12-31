@@ -8,7 +8,7 @@
               <xs:element type="xs:string" name="name"/>
               <xs:element type="xs:int" name="rollno"/>
               <xs:element type="xs:string" name="branch"/>
-              <xs:element type="xs:string" name="college"/>
+              <xs:element type="xs:string" name="colleg"/>
             </xs:sequence>
           </xs:complexType>
         </xs:element>
